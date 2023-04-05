@@ -39,7 +39,7 @@
 1. https://github.com/openbiox/hiplot-org-plugins ：绘图插件新增），Academic Free License version 3.0 协议，商业使用需获得工具开发人员授权；
 2. https://github.com/hiplot/hiplotlib ：绘图插件本地执行框架，ChatGPT 接口实现仓库)；MIT 协议（完全自由使用）。
 
-### 项目二：ChatGPT 
+### 项目二：自动化建立临床模型（疾病亚型、预后分层）及其药物敏感性（待定）
 
 #### 项目大背景
 
@@ -69,7 +69,7 @@
 -   Short Intro: The project will conduct a systematic evaluation of some commonly used visualization analysis methods in the biomedical field. It will provide detailed methodological evaluation results for researchers and guide the optimization and development of relevant methodologies. The project may involve the systematic collation and classification of relevant visualization methods, the construction of standard test data sets, the design of performance evaluation indicators, and actual software evaluation.
 -   Difficulty: Intermediate
 -   Requirements: Undergraduate students in computer science, or graduate students related to bioinformatics
--   Repo: [https://github.com/openbiox](https://github.com/openbiox/benchmark).
+-   Repo: [https://github.com/openbiox/benchmark](https://github.com/openbiox/benchmark).
 -   Language requirements: English.
 -   Type: Benchmarks
 -   Participants: [Jianfeng Li](https://github.com/Miachol) (Mentor)
@@ -154,3 +154,9 @@
 -   Type: Software
 
 ### No. 2023-12 Evaluation of Cloud Bioinformatics Workflow Management System
+
+## 补充说明
+
+Openbiox 开源社区为非营利性社区组织，不归属于任何商业公司，项目产出原则上由项目参与人或其指定机构共同所有，项目产出和知识产权申请（软件著作权等）均需主要项目参与人知情同意。
+
+Openbiox 商标此前由项目合作方代为托管，可随时捐赠开源基金会或其他非营利性开源项目运营机构，欢迎大家与我们进行联系：committee@openbiox.org
